@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "869839598777",
+    "firebase_url": "https://investmentera-fdcab.firebaseio.com",
+    "project_id": "investmentera-fdcab",
+    "storage_bucket": "investmentera-fdcab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869839598777:android:c705fdafca2ba20cbbd768",
+        "android_client_info": {
+          "package_name": "com.investmentera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869839598777-50uiaui58a6nelvckrq7670u0nhhdha0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmLLX2tFQwvGixrrOM9sxritGtu8NbDis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869839598777-50uiaui58a6nelvckrq7670u0nhhdha0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
